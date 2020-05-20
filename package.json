@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "vue2-leaflet": "2.5.2",
+    "vue": "2.6.11",
+    "leaflet": "1.6.0"
+  },
+  "keywords": [],
+  "name": "vue2leaflet-custom-icons",
+  "description": ""
+}
